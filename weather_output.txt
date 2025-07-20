@@ -1,0 +1,5 @@
+City: hyderabad
+Temperature: 26.19 °C
+Humidity: 75%
+Condition: Overcast clouds
+
